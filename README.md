@@ -1,4 +1,4 @@
-# A searchable, sortable and editable list of some of my favourite music albums made with React.
+# React-albums
 
 ## Setup
 
