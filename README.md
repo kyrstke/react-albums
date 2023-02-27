@@ -4,9 +4,7 @@
 
 ### `npm install`
 
-## Available Scripts
-
-In the project directory, you can run:
+## Running
 
 ### `npm start`
 
