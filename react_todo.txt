@@ -1,4 +1,0 @@
-React TODO:
-    - handle "Change rating" button click (toggled?, show/hide input, edit album rating on list)
-    - filters (think about components hierarchy)
-    - sorting - toggled?, default sorting (A-Z or as it is)
