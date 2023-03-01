@@ -1,8 +1,8 @@
 import React from "react";
 import './App.css';
-import FilterBar from './src/components/FilterBar';
-import Header from './src/components/Header.js'
-import Albums from './src/components/Albums.js'
+import FilterBar from './components/FilterBar';
+import Header from './components/Header.js'
+import Albums from './components/Albums.js'
 
 export default class App extends React.Component {
   constructor(props) {
