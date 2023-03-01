@@ -1,12 +1,10 @@
-# A searchable, sortable and editable list of some of my favourite music albums made with React.
+# React-albums
 
 ## Setup
 
 ### `npm install`
 
-## Available Scripts
-
-In the project directory, you can run:
+## Running
 
 ### `npm start`
 
